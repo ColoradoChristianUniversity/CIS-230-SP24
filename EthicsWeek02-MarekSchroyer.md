@@ -1,13 +1,17 @@
-# Week _ Ethics Response
+# Week 2 Ethics Response
 ## Question:
-## Answer
-### Option 1:
+While working as an engineer at a Consultancy, you are assigned to project using Machine Learning to improve customer efficiency. When successful, the customer plans to lay off more than 175 employees. What are three possible responses? What do you do?
+## Answers
+### Option 1: Complete the Assigned Project
 #### Pros
-- 
+- Gets the work for your company done and shows that you are resposible towards your clients.
+- The client will likely return with more work if they need it because they know your firm gets things done.
+- This makes the client more productive. 
 #### Cons
-- 
+- Shows that your company is morally fine with treading on grey lines that interrupt other people and their flows of life.
+- You have to live with the fact you designed something that lost 175 people their jobs. 
 #### Scripture, Principals, and Script
-    Proverbs 14:23 - All hard work brings a profit, but mere talk leads only to poverty
+    Verse 1
 __*Principle*__ -  
 #### Script
 - 
@@ -18,7 +22,7 @@ __*Principle*__ -
 #### Cons
 - 
 #### Scripture, Principals, and Script
-    Colossians 3:23-24 - Whatever you do, work heartily, as for the Lord and not for men, knowing that from the Lord you will receive the inheritance as your reward
+    Verse 2
 __*Principle*__ - 
 #### Script
 - 
@@ -29,7 +33,7 @@ __*Principle*__ -
 #### Cons
 - 
 #### Scripture, Principals, and Script
-    Ephesians 6:6 - Work hard, but not just to please your masters when they are watching. As slaves of Christ, do the will of God with all your heart
+    Verse 3
 __*Principle*__ - 
 #### Script
 - 
