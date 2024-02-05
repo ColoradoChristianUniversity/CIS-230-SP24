@@ -49,34 +49,31 @@
 ☝ __First Principle:__
 > While helping the authorities to aid these children and shut down the ungodly, unlawful operation, it isn't right to do evil for the sake of good.
 
-## Option 3: _Add the backdoor, but only if you have full visibility into how it is used_
+## Option 3: _Ask for time to pray and consider_
 
 ✔ __Pros:__
-> * The surest way to catch the criminals.
-> * Prevents improper use of the backdoor.
-> * 
+> * Allows for a godly response later.
+> * Does not commit myself before I know what I should do.
+> * Allows the Lord to lead me in whatever direction is right for the particular situation and time.
 
 ❌ __Cons:__
-> * Could likely result in an unfavorable opinion from my boss.
-> * Missed opportunity to grow from experience.
-> * Does nothing to stop the customer from laying off 750+ people.
+> * Allows kids to continue to be trafficked while I take my time.
+> * Does nothing to solve the immediate issue, putting it off until later.
+> * Could cause the government to grow impatient.
 
 📜 __Script:__
-> ___Boss:___ I've got a new project for you. This customer would like to cut down on costs and improve efficiency by replacing over 750 employees with a Machine Learning model.\
-> ___Me:___ Hey, is it possible that you could have someone else do that? I don't want to be a part of something that will result in so many people losing their livelihoods.\
-> ___Boss:___ ...\
-> ___Me:___ Pretty please?\
-> ___Boss:___ Well...I suppose I can find someone else. But if this becomes a regular occurance, it's going to be a problem. I need to be able to depend on you to get work done. Understood?\
-> ___Me:___ Yes, sir.
+> ___Govt. Agent:___ Will you help us?\
+> ___Me:___ I'm sorry, but this is a very important issue. I think I will need to take some time to think about it. Is it okay if I get back to you in two days?\
+> ___Govt. Agent:___ I believe I can arrange that. But don't take any longer than you need to. This is a time-sensitive issue!
 
 ✝ __Scripture:__
-> Galatians 1:10 (ESV): "Am I now trying to win the approval of human beings, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a servant of Christ."
+> James 1:5 (ESV): "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him."
 
 ☝ __First Principle:__
-> A compromise, whether it is large or small, is still a compromise. It is better to remain unstained from anything unholy, whether it is directly sinful or not.
+> Decisions should always be made with God, never apart from Him. For something as convoluted as this, a person needs to take time to seek the Lord and see where He will lead him.
 
 ## 🏁 Conclusion:
-> In this situation, the problem arises from the fact that helping this client will potentially hurt the careers and families of a lot of people. It is not sinful, however, so it is not a clear, moral issue. Laying someone off is not a sin, but it does negatively impact their life, so my Machine Learning model could harm the futures of many people. The question is really whether or not this is my concern or something I need to worry about.
+> This scenario poses the question, "is it right to do evil for the sake of good." While pretty much everyone can agree that it isn't right to intruduce a backdoor into an open source project, the fact that it is for a good cause makes the issue more sticky. One must ask themselves if performing the "lesser evil" of violating users' trust is worth the "greater good" of saving uncounted kids from being abused.
 
 ## ✨Personal Choice:
-> Based on this situation and these options, I would probably choose option 2, reasoning with the customer. Unless they are a very closed-off type of person, I would hope they might be open to friendly conversation. As long as I make it clear that I am not speaking within my professional role, and I listen for signs that they do not want to talk about this, I would hopefully not get in trouble, and I would have done what I could to save the careers of all those people, while not ruining my own.
+> Although it might seem like the "cop-out answer," I would choose option 3, taking some time to think and pray about it. This is because I think God's answer on this could be different depending on the time, situation, and circumstances. To one person, He might lead them to completely refuse to keep their conscience clear. To another person, or even just another time, He might cause them to choose option 2. However, it is always wise to seek the Lord's guidance, so I would go with this option, no matter what.
