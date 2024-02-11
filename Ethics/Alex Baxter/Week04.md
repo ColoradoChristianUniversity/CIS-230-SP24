@@ -12,16 +12,16 @@ While working on a project under intense budget and time pressures, a key teamma
 
 Script:
 
-    Me: 
-    BossMan: 
-    Me: 
-    BossMan: 
+    CW: Hey man, my mental health has taken big hit with this project. I'm not sure how much longer I can do this 
+    Me: Do you have some time to talk later today? I'd love to listen to about what you've been going through. I heard Brittany in HR  has some resources for depression.
+    CW: It would be good to do both of those. I didn't  know about Brittany's stuff.
+    Me: I hope ot helps. You deserve to be healthy. 
 
 📖 Scripture
 >"Plans succeed through good counsel; don’t go to war without wise advice." Proverbs 20:18
 
 1️⃣ st Principle:
-- example first princabple
+- Encourage others to seek wise Counsel. 
 
 ## Option 2: Offer to take some tasks
 
@@ -34,10 +34,9 @@ Script:
 
 Script:
 
-    Me: 
-    BossMan: 
-    Me: 
-    BossMan: 
+    CW: Hey man, my mental health has taken big hit with this project. I'm not sure how much longer I can do this 
+    Me:
+    CW:
 
 📖 Scripture
 >"Quote of Scripture"
