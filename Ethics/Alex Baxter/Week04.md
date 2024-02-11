@@ -2,13 +2,42 @@
 While working on a project under intense budget and time pressures, a key teammate shares with you in confidence that he is suffering from debilitating depression. If this project fails, your company will lose their largest customer. What are three responses? What do you do?
 ---
 # Answer
-## Option 1: 
+## Option 1: Sugest HR Resources
 
 |👍 Pros:| 👎Cons:|
 |-----|------|
-|1. Pro number|1. Cro number|
-|2. Pro number|2. Cro number|
-|3. Pro number|3. Cro number|
+|1. He/She can be helped by people trained to handle these problems                     |1. HR may not have adequate resources|
+|2. HR might have a better understanding of the companies context than outside resources|2. HR mostly exists to protect the company not to help employees|
+|                                                                                       |3. Coworker's realtionship with company may be harmed  due to mental health stigma|
+
+Script:
+
+    Me: 
+    BossMan: 
+    Me: 
+    BossMan: 
+
+📖 Scripture
+>"Plans succeed through good counsel; don’t go to war without wise advice." Proverbs 20:18
+
+1️⃣ st Principle:
+- example first princabple
+
+## Option 2: Offer to take some tasks
+
+|👍 Pros:| 👎Cons:|
+|-----|------|
+|1. Demonstrates self sacrificial love                                           |1. Significantly more pressure on me|
+|2. Gives time for coworker to find resources that would be most helpful to them.|2. Quality of work might worsen if I have too much on my plate|
+|3. Company won't know about the Coworker's struggle                             |3. Company won't know about the Coworker's struggle |
+
+
+Script:
+
+    Me: 
+    BossMan: 
+    Me: 
+    BossMan: 
 
 📖 Scripture
 >"Quote of Scripture"
@@ -16,26 +45,20 @@ While working on a project under intense budget and time pressures, a key teamma
 1️⃣ st Principle:
 - example first princabple
 
-## Option 2: 
+## Option 3: Bring it to management 
 
 |👍 Pros:| 👎Cons:|
 |-----|------|
-|1. Pro number|1. Cro number|
-|2. Pro number|2. Cro number|
-|3. Pro number|3. Cro number|
-📖 Scripture
->"Quote of Scripture"
+|1. Manager can redistribute work load among team                     |1. Might demonstrate to manager that the coworker can't handle work load |
+|2. A good manager will be team focused and will find a good solution |2. A bad manager will make the situation worse|
+|3. Responsibility doesn't fall on me                                 ||
 
-1️⃣ st Principle:
-- example first princabple
+Script:
 
-## Option 3: 
-
-|👍 Pros:| 👎Cons:|
-|-----|------|
-|1. Pro number|1. Cro number|
-|2. Pro number|2. Cro number|
-|3. Pro number|3. Cro number|
+    Me: 
+    BossMan: 
+    Me: 
+    BossMan: 
 
 📖 Scripture
 >"Quote of Scripture"
