@@ -26,19 +26,26 @@ If someone values empathy and servitude highly, then this is likely the best opt
 <b>Response 2: Just Continue with Job, Don't Accept More Work</b>
 
 #### Pros- 
+Doesn't take on any new responsibility, hopefully keeps the project moving forward
 
 #### Cons- 
+Insensitive to teammate, likely leads to decreased production on his part, could lead to not finishing the project and ruining relationship with customer
 
 #### Dialog-
+Teammate: "Hey, I'm struggling quite a bit right now- any chance you could help me out?"
+
+You: "I'm sorry, I don't really think I can take any more work on for this project. I'd love to help but I can't right now."
 
 #### Biblical Reference- 
+"As iron sharpens iron, so one person sharpens another." -Proverbs 27:17 (NIV)
 
 #### First Principle- 
+While this option may be extremely insensitive, it's not necessarily sinful or wrong at all to simply continue carrying your own workload. Expressing compassion doesn't necessarily have to look like taking on new responsibilities- it would be possible in this situation to not accept more work and still be compassionate toward him by spending time with him and directing him to resources where he can get help.
 
 <b>Response 3: Ask to Divide Responsibility Among the Rest of the Team</b>
 
 #### Pros- 
-
+Protects relationship with customer, gets the job done, doesn't give any single person too much work
 
 #### Cons-
 
