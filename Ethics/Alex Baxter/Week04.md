@@ -55,16 +55,14 @@ Script:
 
 Script:
 
-    Me: 
-    BossMan: 
-    Me: 
-    BossMan: 
+    Me: [Coworker] shared with me that he/she is going through a very difficult time. Is there anything you or I could do to help. I know we're under a lot of pressure but I think the team's need should still be a top priority.
+    Boss: I'll talk to him/her to see what I can do to help. In the meantime I can try to  move some tasks around to share the workload a little better. Thanks for brining this to my attention.
 
 📖 Scripture
->"Quote of Scripture"
+>"Two are better than one, because they have a good reward for their toil. For if they fall, one will lift up his fellow. But woe to him who is alone when he falls and has not another to lift him up! Again, if two lie together, they keep warm, but how can one keep warm alone? And though a man might prevail against one who is alone, two will withstand him—a threefold cord is not quickly broken. " Ecclesiastes 4:9-12 
 
 1️⃣ st Principle:
-- example first princabple
+- If you are working in a team then you should come together to help one another. 
 
 # Excursus
 lorum ipsum
