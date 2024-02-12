@@ -48,16 +48,18 @@ While this option may be extremely insensitive, it's not necessarily sinful or w
 Protects relationship with customer, gets the job done, doesn't give any single person too much work
 
 #### Cons-
-
+Could reduce efficiency individually and team-wide, likely relies on the teammate being willing to share his struggles with the entire team
 
 #### Dialog-
+Teammate: "Hey, I'm struggling quite a bit right now- any chance you could help me out?"
 
+You: "Let's talk to the rest of the team about it if you're comfortable. I think we can pick up your slack if you're willing to let them know what you're going through."
 
 #### Biblical Reference- 
-
+"Two are better than one, because they have a good return for their labor: If either of them falls down, one can help the other up. But pity anyone who falls and has no one to help them up." -Ecclesiastes 4:9-10 (NIV)
 
 #### First Principle- 
-
+Bringing the entire team in on the one teammate's struggles might be intimidating at first, but it could lead to a long-term solution for the teammate. In addition to this, this option gets the project done without losing much efficiency. Overall, this option represents an empathetic approach to the teammate's mental health issues without sacrificing the project.
 
 ## My Choice
-
+I would easily lean towards at least encouraging the third option, trying to spread the teammate's work across the rest of the team. It does rely on cooperation and willingness to be vulnerable from the teammate himself, but it likely leads to the best possible outcome for both the teammate and the project.
