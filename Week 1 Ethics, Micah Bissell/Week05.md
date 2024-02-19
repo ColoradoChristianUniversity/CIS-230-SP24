@@ -63,19 +63,23 @@ This option presents a good blend of firmness and forgiveness. It might technica
 ### <b>Response 3: Reject the Code Entirely, Give Zero Credit</b>
 
 #### Pros- 
-
+Follows the policy, heavily discourages future plagiarism, gives no credit for work that was not done by the student
 
 #### Cons-
-
+Could be seen as overly harsh, could discourage student too much very early in the semester, likely negatively impacts interpersonal relationship with student
 
 #### Dialog-
+You: "Hey [Student], I noticed while grading your assignment this weekend that it was copied from an online tutorial."
 
+Student: "Yes it was, I'm sorry for doing that. What happens now?"
+
+You: "I'm sorry, but I have to give you a zero on the assignment. Plagiarism isn't okay and I hope this serves as a good reminder for you moving forward."
 
 #### Biblical Reference- 
-
+"The Lord detests lying lips, but he delights in people who are trustworthy." -Proverbs 12:22
 
 #### First Principle- 
-
+Abiding by the letter of the law is always at least a safe bet, and in this case the letter of the law says to give the student a failing grade as a warning that plagiarism can't be tolerated. Effectively, this option follows the rules exactly how they should be followed. The student did not do the work and thus should not get the credit, and officially should not get another chance. This choice reflects all of this.
 
 ## My Choice
 
