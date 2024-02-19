@@ -14,24 +14,30 @@ Just a week or two into class, one of your students submits an assignment that i
 
 ## Possible Responses
 
-<b>Response 1: Accept the Code and Give Partial Credit, Warn Student Moving Forward</b>
+### <b>Response 1: Accept the Code and Give Partial Credit, Warn Student Moving Forward</b>
 
 #### Pros-
-
+Offers student the chance to learn without inflicting too harsh a punishment, gives warning signs early, sets clear expectations moving forward
 
 #### Cons- 
-
+Probably lets student off too easily, doesn't necessarily disincentivize plagiarism enough, gives partial credit for work that wasn't done by the student
 
 #### Dialog- 
+You: "Hey [Student], I noticed while grading your assignment this weekend that it was copied from an online tutorial."
 
+Student: "Yes it was, I'm sorry for doing that. What happens now?"
+
+You: "I'll accept the code this time and give you 25% credit, but make sure it doesn't happen again moving forward or else I won't be able to give any points."
+
+Student: "Thank you, it won't happen again."
 
 #### Biblical Reference- 
-
+"Bear with each other and forgive one another if any of you has a grievance against someone. Forgive as the Lord forgave you." -Colossians 3:13 (NIV)
 
 #### First Principle- 
+Someone could reasonably choose this action if he/she valued forgiveness above justice. Giving the student a firm warning along with a grade that provides some punishment without causing a ton of damage reflects a desire to see the student grow in an encouraging environment but also sets a clear boundary for the student to adhere to moving forward.
 
-
-<b>Response 2: Reject the Code but Offer Second Chance</b>
+### <b>Response 2: Reject the Code but Offer Second Chance</b>
 
 #### Pros- 
 
@@ -48,7 +54,7 @@ Just a week or two into class, one of your students submits an assignment that i
 #### First Principle- 
 
 
-<b>Response 3: Reject the Code Entirely, Give Zero Credit</b>
+### <b>Response 3: Reject the Code Entirely, Give Zero Credit</b>
 
 #### Pros- 
 
