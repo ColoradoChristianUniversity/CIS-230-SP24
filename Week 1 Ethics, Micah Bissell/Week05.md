@@ -20,7 +20,7 @@ Just a week or two into class, one of your students submits an assignment that i
 Offers student the chance to learn without inflicting too harsh a punishment, gives warning signs early, sets clear expectations moving forward
 
 #### Cons- 
-Probably lets student off too easily, doesn't necessarily disincentivize plagiarism enough, gives partial credit for work that wasn't done by the student
+Probably lets student off too easily, doesn't follow policy guidelines, gives partial credit for work that wasn't done by the student
 
 #### Dialog- 
 You: "Hey [Student], I noticed while grading your assignment this weekend that it was copied from an online tutorial."
@@ -40,19 +40,25 @@ Someone could reasonably choose this action if he/she valued forgiveness above j
 ### <b>Response 2: Reject the Code but Offer Second Chance</b>
 
 #### Pros- 
-
+Gives the student the chance to earn the points fairly, doesn't accept plagiarized work, disincentivizes plagiarizing
 
 #### Cons- 
-
+Doesn't necessarily follow policy guidelines fully, could be seen as unfair by other students who didn't plagiarize
 
 #### Dialog-
+You: "Hey [Student], I noticed while grading your assignment this weekend that it was copied from an online tutorial."
 
+Student: "Yes it was, I'm sorry for doing that. What happens now?"
+
+You: "I can't accept this code as per the syllabus, but I am willing to offer you the chance to do it again in your own work and show me as you go if you want to earn those points back."
+
+Student: "I'd be glad to try that, thanks for understanding."
 
 #### Biblical Reference- 
-
+"Anyone who has been stealing must steal no longer, but must work, doing something useful with their own hands, that they may have something to share with those in need." -Ephesians 4:28 (NIV)
 
 #### First Principle- 
-
+This option presents a good blend of firmness and forgiveness. It might technically not go by the exact letter of the plagiarism policy, but it demonstrates that you value the student as a person and understand that people make mistakes. This option opens the door for further instruction and guidance for the student without giving the student credit for work he/she did not do.
 
 ### <b>Response 3: Reject the Code Entirely, Give Zero Credit</b>
 
