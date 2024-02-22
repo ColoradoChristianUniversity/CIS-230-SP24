@@ -72,7 +72,6 @@ Me: (email) Hi (university person who deals with this) my student submitted an a
 
 University: Thank you, Professor C, we will take of it. 
 
- 
 
 📖 Scripture: Proverbs 12:22 (NIV)
 - " The Lord destest lying lips, but he delights in people who are trustworthy."
@@ -81,3 +80,6 @@ University: Thank you, Professor C, we will take of it.
 🤔 First principle:
 - It is important to elevate learning and justice when teaching. If students get away with cheating then there is no justice for the students who don't cheat thus no learning. 
 
+
+# I would choose the secord option.
+It gives the student to come clean. 
