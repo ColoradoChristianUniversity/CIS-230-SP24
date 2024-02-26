@@ -10,7 +10,9 @@ The root of this site has the ethics write-up of everyone in class. You can go t
 - Due to the anoyomous nature of this stance it will help your conscious in the long run
 - Could make your own company question your loyalty and willingness to do a job. 
 ### Option 2: In between for and against
-- 
+- Brought up the idea of laying off some, but not all
+- Means that the workers could be going to a company that values them more and can use their work more 
+- Brought up the idea of helping the laid off workers find new jobs, which is all things considered a good compromise
+- This option has the greatest chance of me (the worker) losing my job. 
 ## Conclusion
-
-## My Final Choice
+Both these choices are pretty similar, as they are both trying to find a compromise to the initial solution of getting all 175 employees laid off. One of them asks the boss to find a solution, while the other makes a stand on the idea of the company at least helping their workers before they lay them off. I think that because Jaxson highlighted that in his response, I would choose his over Evans. Even though he highlights the risk, I think that ethically this would be the right decision to make. 
