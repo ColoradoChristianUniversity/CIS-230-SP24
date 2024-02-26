@@ -19,14 +19,14 @@ Prompt from Week 4: While working on a project under intense budget and time pre
 <b>Response 2: Diego's Choice- Provide the Worker with Needed Resources, Including Time off if Needed</b>
 
 #### Pros- 
-- 
-- 
-- 
+- Provides a path to better mental health
+- Won't cause too much delay in the project relative to just giving him full time off
+- Builds a positive work culture within the company, proving that they care for their employees
 
 #### Cons- 
-- 
-- 
-- 
+- Uses company resources that weren't being used before
+- Might delay the project some if he does end up taking time off
+- Company might not be willing to provide the resources he asks for/needs
 
 ## My Choice
-I would easily lean towards at least encouraging the third option, trying to spread the teammate's work across the rest of the team. It does rely on cooperation and willingness to be vulnerable from the teammate himself, but it likely leads to the best possible outcome for both the teammate and the project.
+I would lean towards Diego's choice. His option keeps the teammate working on his tasks without much pressure, which reduces the risk of delaying the project while still leading him towards better mental health. Gabe's option would help, it just wouldn't be as efficient and could run some risks for your own productivity.
