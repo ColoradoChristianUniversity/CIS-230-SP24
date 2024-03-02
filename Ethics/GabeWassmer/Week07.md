@@ -75,4 +75,4 @@ While each option has its upsides and downsides, the bottom line is making sure 
 
 ---
 ### **My Final Choice**
-After mulling it over, I've decided to raise my concerns with management and ask for a review before moving forward. It might not be the easiest path, but it feels like the most responsible one. At the end of the day, it's about doing right by the company, our team, and our values.
+
