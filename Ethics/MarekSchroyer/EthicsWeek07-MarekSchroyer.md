@@ -31,21 +31,29 @@ __*Principle*__ -  Since you want to show your company that you care, I think th
 - It might seem condescending to the junior dev and they might not take it well
 #### Scripture, Principals, and Script
     Galatians 6:1-2 - Brothers and sisters, if someone is caught in a sin, you who live by the Spirit should restore that person gently.
-__*Principle*__ - 
+__*Principle*__ - At least offering some input into the situation should be helpful, and at least attempting to review the code before it's published is better than nothing. 
 #### Script
-- 
+- You: Hey Larry, how is that project going?
+- Larry: Oh, I already have it done! AI really helped me speed up the process, and I don't even have to worry about review, the high-ups already ok'ed the project!
+- You: Oh, don't you think you should at least review the code for errors? I can help you with that!
+- Larry: Sure, if you are offering to help, I don't see why not. 
 
 ### Option 3: Offer no input at all
 #### Pros
--
+- Means that you stay out of the situation and that it's not in your hands
 #### Cons
-- 
+- Could harm the company in the long run. 
+- Junior Dev could loose their job. 
+- You have to live with the fact that you knew about this. 
 #### Scripture, Principals, and Script
-    Verse 3
-__*Principle*__ - 
+    Psalm 37:7 - Be still before the LORD and wait patiently for him; do not fret when people succeed in their ways, when they carry out their wicked schemes.
+__*Principle*__ - Sometimes you just have to let the problems in the world work themselves out, even if your input could do something. It might not be your place to speak up at a time like this, or both of the parties could deny the previous attempts. 
 #### Script
-- 
+- Larry: Hey, I just submitted the final edits for my repo! How is yours coming along?
+- You: I am getting there, got about a week left.
+- Project Head: Man, why can't you get your work done fast like Larry?
 
 ## Conclusion
-
+Overall, this situation has a pretty clear cut response. I think that with the current information given, at least reaching out to the junior dev is agreeable. And if they retaliate or don't want to change anything about their code, then that is their decision. 
 ## My Final Choice
+So clearly my final choice is clearly reaching out to the junior dev and asking if they want to sit down and review their code. 
