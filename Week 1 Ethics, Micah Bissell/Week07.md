@@ -39,6 +39,23 @@ A junior engineer at your company, leveraging advanced Artificial Intelligence, 
 - **Biblical Reference:** "Let the wise listen and add to their learning, and let the discerning get guidance." - Proverbs 1:5 (NIV)
 - **First Principle:** Choosing to tutor your friend is a good option because it not only lets you keep your relationship with him in good standing, but also opens the door for improvement in that respect. This solution, if it works, is a good way to show your friend that you care for him/her as an individual, because it demonstrates a sense of self-sacrifice for his/her greater good.
 
+### **Response 3: Say Nothing to Management but Warn Junior Engineer of Upcoming Increased Responsibilities**
+- **Pros:** 
+    - Mentally prepares your friend for the increased workload that he will inevitably face
+    - Doesn't cause you to lose any personal efficiency
+    - Shows your friend that you're at least thinking about him and his career
+- **Cons:** 
+    - Does nothing to practically alleviate/slow the oncoming situation
+    - Might not convey the true severity of the problem to your friend
+    - Could risk your friend being frustrated with your lack of effort if he can't handle new responsibilities
+- **Dialog:**
+  - You: "Hey [engineer], I know you used AI on that last project and I don't think you're ready for what they're going to throw at you now."
+  - Engineer: "What can I do about it?"
+  - You: "I don't really know if there's anything you can do, just be ready if they start putting you on assignments that you aren't ready for yet."
+  - Engineer: "Thanks for letting me know, at least."
+- **Biblical Reference:** "Do not withhold good from those to whom it is due, when it is in your power to act." - Proverbs 3:27 (NIV)
+- **First Principle:** This is a fine option if you aren't in a good spot to be able to help in a more practical way. It lets your friend know of the upcoming challenges that he might not be prepared for without belittling his abilities or capacities by telling management that he can't do something. This allows him to work on his problems on his own time, which might not be the most efficient practical solution, but does still get him closer to his goal of being able to tackle the new assignments.
+
 
 ## My Choice
 I would choose the second option, giving the student a second chance to do the assignment properly but giving no credit for the initial attempt. While it technically does not follow the policy exactly as it is outlined, I believe there is some level of human empathy that is displayed in option 2 and not in option 3. This is especially the case given that the scenario happened in week 2, very early in the course of the class. My opinion might be different if this happened late in the class after several weeks, but in this case it's likely one of the first interactions the student will ever have with you and thus I believe it's important to maintain a positive two-way relationship for good communication during the rest of the class.
