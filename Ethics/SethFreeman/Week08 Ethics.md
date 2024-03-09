@@ -29,7 +29,7 @@
 ✔ __Pros:__
 > * Could prompt the teammate to confess their inadequacy to management
 > * Could possibly result in me getting the credit for the work I did
-> * Takes care of the problem while not self-advertizing to management
+> * Takes care of the problem while not self-advertising to management
 
 ❌ __Cons:__
 > * Could damage my relationship with the teammate, depending on how they take it
@@ -59,7 +59,7 @@
 > * Puts myself in the thick of the situation where it would thereafter be difficult to extract myself if things didn't go well
 
 📜 __Script:__
-> ___Me:___ Hello, can I speak with you for just a minute? I have a concern that I would like to bring to your attention. I am not sure if you are already aware of this, but all of John's recent work has been a collaberation between him and me. I don't mean to degrade him in the slightest, but to be honest, the majority of our recent releases has been completed by me. I have been mentoring him for the last six months, and I have some concerns about his readiness to take this leadership position. I just thought to make you aware of this, if you didn't already know. Thank you for your time!\
+> ___Me:___ Hello, can I speak with you for just a minute? I have a concern that I would like to bring to your attention. I am not sure if you are already aware of this, but all of John's recent work has been a collaboration between him and me. I don't mean to degrade him in the slightest, but to be honest, the majority of our recent releases has been completed by me. I have been mentoring him for the last six months, and I have some concerns about his readiness to take this leadership position. I just thought to make you aware of this, if you didn't already know. Thank you for your time!\
 > ___Management:___ I was not aware of that, so thank you for bringing it up. I will speak with him as soon as I get the chance.\
 
 ✝ __Scripture:__
