@@ -22,7 +22,7 @@
 > Luke 12:2-3 (ESV): "Nothing is covered up that will not be revealed, or hidden that will not be known. Therefore whatever you have said in the dark shall be heard in the light, and what you have whispered in private rooms shall be proclaimed on the housetops."
 
 ☝ __First Principle:__
-> 
+> In situations like this, it may be best to let things play themselves out. If the teammate is not ready for the position, it will quickly become manifest. But if they are somehow adequate, then saying something would make me look like a fool.
 
 ## Option 2: _Speak to the teammate about it_
 
@@ -44,7 +44,7 @@
 > Luke 17:3 (ESV): "Pay attention to yourselves! If your brother sins, rebuke him, and if he repents, forgive him,"
 
 ☝ __First Principle:__
-> 
+> By explaining my view on the situation to the teammate, I show my concern for both the company and for him personally. It is always better for the person who is being falsely promoted to make the correction themselves. That way, they look humble, and I don't look arrogant.
 
 ## Option 3: _Explain your concerns to management_
 
@@ -66,7 +66,7 @@
 > Ephesians 5:11 (ESV): "Take no part in the unfruitful works of darkness, but instead expose them."
 
 ☝ __First Principle:__
-> 
+> The only way to be sure that the situation is taken care of properly is to address it to those in charge of the faulty promotion. They made the mistake, so they should be the ones to redress it. I cannot be sure that the teammate or anyone else will adequately explain the situation to management, so doing it myself ensures that the proper message is given.
 
 ## 🏁 Conclusion:
 > 
