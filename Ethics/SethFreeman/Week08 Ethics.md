@@ -14,8 +14,9 @@
 > * Does nothing to acknowledge the fact that I probably earned the promotion instead of the teammate
 
 📜 __Script:__
-> ___Char1___ Text\
-> ___Char2___ Text\
+> ___Management:___ Before we go, we would like to make an important announcement. We have noticed John's exceptional performance recently, and we have decided to reward this by promoting him to a leadership position. John, thank you for your great contributions to this company.\
+> ___John:___ ...Oh, of course!! ...Always a pleasure!!\
+> ___Me:___ ............\
 
 ✝ __Scripture:__
 > 
@@ -36,8 +37,8 @@
 > * Could leave management still unaware of my good performance, depending on what the teammate says
 
 📜 __Script:__
-> ___Char1___ Text\
-> ___Char2___ Text\
+> ___Me:___ Hey, John, can I speak to you for a minute? Look, I hate to bring this up, but I just want to do what's right for the company and make sure we are on the same page. I heard about your promotion to leadership. Don't get me wrong, I think you're a great guy, but do you honestly feel prepared to take this position? It looks to me like management has attributed our combined work solely to you, and this is why they are giving you the promotion. This is ultimately up to your conscience, but unless you honestly think that you can continue to perform at that level without me, I would recommend explaining the situation to management. I know it might be embarrassing, but I think it's for the good of the company, and it could save you a lot of headache (and possibly your job) later on.\
+> ___John:___ Hmph. I'll think about it.\
 
 ✝ __Scripture:__
 > 
@@ -58,8 +59,8 @@
 > * Puts myself in the thick of the situation where it would thereafter be difficult to extract myself if things didn't go well
 
 📜 __Script:__
-> ___Char1___ Text\
-> ___Char2___ Text\
+> ___Me:___ Hello, can I speak with you for just a minute? I have a concern that I would like to bring to your attention. I am not sure if you are already aware of this, but all of John's recent work has been a collaberation between him and me. I don't mean to degrade him in the slightest, but to be honest, the majority of our recent releases has been completed by me. I have been mentoring him for the last six months, and I have some concerns about his readiness to take this leadership position. I just thought to make you aware of this, if you didn't already know. Thank you for your time!\
+> ___Management:___ I was not aware of that, so thank you for bringing it up. I will speak with him as soon as I get the chance.\
 
 ✝ __Scripture:__
 > 
