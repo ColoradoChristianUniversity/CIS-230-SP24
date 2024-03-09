@@ -69,7 +69,7 @@
 > The only way to be sure that the situation is taken care of properly is to address it to those in charge of the faulty promotion. They made the mistake, so they should be the ones to redress it. I cannot be sure that the teammate or anyone else will adequately explain the situation to management, so doing it myself ensures that the proper message is given.
 
 ## 🏁 Conclusion:
-> 
+> The tension in this situation comes from the fact that, if I don't address the situation, it could damage the company and the teammate both. However, if I do, it could look like I am self-promoting, reflecting poorly on my character to management. The different ways I can address the situation balance these two risks inversely. The less my approach risks in the area of damage to the company, the more personal risk it takes on, and vice versa. Therefore, no matter what I choose, there is always risk. I simply must decide how much of that risk I want to take on myself.
 
 ## ✨Personal Choice:
-> 
+> Given these options, I would choose option 2: speaking to the teammate about it. Similar to other ethics prompts, this approach gives me the greatest variety in how I move forward. If the teammate responds well, then I have kept my relationship with them and resolved the situation. But if they do not, I can always fall on a backup plan, like speaking to management. It allows me to take things slowly and not stick myself farther into the situation than I can retreat from if necessary.
