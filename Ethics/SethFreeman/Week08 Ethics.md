@@ -19,7 +19,7 @@
 > ___Me:___ ............\
 
 ✝ __Scripture:__
-> 
+> Luke 12:2-3 (ESV): "Nothing is covered up that will not be revealed, or hidden that will not be known. Therefore whatever you have said in the dark shall be heard in the light, and what you have whispered in private rooms shall be proclaimed on the housetops."
 
 ☝ __First Principle:__
 > 
@@ -41,7 +41,7 @@
 > ___John:___ Hmph. I'll think about it.\
 
 ✝ __Scripture:__
-> 
+> Luke 17:3 (ESV): "Pay attention to yourselves! If your brother sins, rebuke him, and if he repents, forgive him,"
 
 ☝ __First Principle:__
 > 
@@ -63,7 +63,7 @@
 > ___Management:___ I was not aware of that, so thank you for bringing it up. I will speak with him as soon as I get the chance.\
 
 ✝ __Scripture:__
-> 
+> Ephesians 5:11 (ESV): "Take no part in the unfruitful works of darkness, but instead expose them."
 
 ☝ __First Principle:__
 > 
