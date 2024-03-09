@@ -22,13 +22,13 @@ While working on an engineering team, you mentor a teammate for 6 months to no a
 
  **🎭Script**
 
- ➖ Me:
+ ➖ Me: Hey there, I need to talk to you real quick about the leadership raise for (___what's his name___)
 
- ➖ Boss: 
+ ➖ Boss: Oh yea? what's up?
 
- ➖ Me:
+ ➖ Me: I just think you deserve to know that I have been mentoring him for the past 6 months and he is still not there yet. All I'm saying is that the work he claimed to be solely his.. is not solely his.
 
- ➖ Boss:
+ ➖ Boss: Oh wow, thanks for letting me know, I will make sure that I take it into account when making my descion. 
   
 **📙Scripture**
 > hehe
