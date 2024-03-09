@@ -1,7 +1,7 @@
-# Week04 Ethics
+# Week08 Ethics
 ## 🤔 Prompt:
-> 
-## Option 1: _Option1_
+> While working on an engineering team, you mentor a teammate for 6 months to no avail, he is just not catching on. You learn he up for a raise as company leadership has mistakenly given him sole credit for work you have done together. What are three possible responses? What do you do?
+## Option 1: _Say nothing_
 
 ✔ __Pros:__
 > * 
@@ -23,7 +23,7 @@
 ☝ __First Principle:__
 > 
 
-## Option 2: _Option2_
+## Option 2: _Speak to the teammate about it_
 
 ✔ __Pros:__
 > * 
@@ -45,7 +45,7 @@
 ☝ __First Principle:__
 > 
 
-## Option 3: _Option3_
+## Option 3: _Explain your concerns to management_
 
 ✔ __Pros:__
 > * 
