@@ -4,12 +4,15 @@
 
 ## Option 1: _Inform someone of the bug_
 
+<br>
+
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
 | 1. Maintains my stance on Sundays | 1. Puts the burden of my mistake on someone else |
 | 2. Allows the problem to possibly be fixed | 2. Still requires me to contact other people, which could be considered a "meeting" |
 | 3. At least acknowledges my mistake | 3. Could result in losing my job, if I don't take further action |
 
+<br>
 
 📜 __Script:__
 > ___Me:___ Hey, boss, can I talk to you for a minute? I just realized that I made a huge mistake. While writing this code, I created a bug that is rendering the system non-functional. Since I won't be able to come in to work tomorrow, I wanted to let you know right away. I can point out what I did that caused it, and how I think it could be fixed, and if there are still issues on Monday morning, I promise, I will be the first one in to work on it.\
@@ -23,11 +26,15 @@
 
 ## Option 2: _Ask for Monday off instead_
 
+<br>
+
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
 | 1. Takes personal responsibility for the solution | 1. Violates my Sunday policy |
 | 2. Keeps a day of rest | 2. Eliminates an entire day of productivity on Monday |
 | 3. Shows a willingness to put aside personal needs for the company | 3. Shows my boss that I will compromise my policies, if put under enough pressure |
+
+<br>
 
 📜 __Script:__
 > ___Me:___ Hey, boss, I messed up big time. I was trying to fix part of the code, but I accidentally introduced a huge bug that broke the system. I know it's critical that we get this fixed right away, so I am going to take responsibility for it and make this one exception to my rule of not working on Sundays. However, to make that work, I need to request Monday off instead. I know that's a lot to ask, and if you'd rather me work on Monday than Sunday, I can do that.\
@@ -42,11 +49,15 @@
 
 ## Option 3: _Fix the bug, working for the Lord_
 
+<br>
+
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
 | 1. Necessitates reliance on the Lord | 1. Possibly violates my commitment to the Lord (Is this my Sabbath? Unclear.) |
-| 2. Acknowledges that I work for God, not man | 2. Such willingness could cause my boss to require similar Sunday compomises in the future |
+| 2. Acknowledges that I work for God, not man | 2. Such willingness could cause my boss to require similar Sunday compromises in the future |
 | 3. Takes full responsibility for the situation | 3. Gives me no mental, spiritual, or relational break, possibly leading to burnout |
+
+<br>
 
 📜 __Script:__
 > ___Me:___ Hey, while I was working on that one feature you told me to, I accidentally introduced a massive bug that makes the system unusable. I know how significant this is, so I'm going to make an exception this one time and fix it over Sunday.\
@@ -63,4 +74,4 @@
 > In this conundrum, the main struggle is between two commitments: to God and to work. There is also the added difficulty that I told my work about my commitment to God, so going back on that could reflect poorly on my character to my company as well. I have to ask myself how important not working on Sundays is to me, and if I would have a clear conscience about breaking that rule to right an issue I created.
 
 ## ✨Personal Choice:
-> I would likely choose option 2 if it came to it: moving my day of rest to Monday. This is a sort of "middle of the road" approach, both acknowledging the need for rest and accepting my responsibility for the problem. While none of these options are perfect, this one has the least extreme consequences.
+> I would likely choose option 2 if it came to it: moving my day of rest to Monday. This is a sort of "middle of the road" approach, both acknowledging the need for rest and accepting my responsibility for the problem. While none of these options are perfect, this one has the least extreme consequences. I will still have to rely on the Lord over Sunday in order to get the bug fixed; it will just be a different kind of reliance. And, although it may look to my boss like I am willing to compromise my ideals, I believe the counter-request of Monday off could help to offset this. (Maybe...)
