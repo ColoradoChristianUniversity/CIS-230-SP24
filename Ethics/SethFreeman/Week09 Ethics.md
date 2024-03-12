@@ -13,15 +13,13 @@
 
 📜 __Script:__
 > ___Me:___ Hey, boss, can I talk to you for a minute? I just realized that I made a huge mistake. While writing this code, I created a bug that is rendering the system non-functional. Since I won't be able to come in to work tomorrow, I wanted to let you know right away. I can point out what I did that caused it, and how I think it could be fixed, and if there are still issues on Monday morning, I promise, I will be the first one in to work on it.\
-> ___Boss:___ Are you kidding me?? I've been respecting your request for no work on Sunday, but this is no game. You need to get your butt in here tomorrow and fix the problem you caused!\
-> ___Me:___ I understand how serious this is, and I take full responsibility for the situation. I will work as hard as I can until midnight tonight and do everything I can to get the situation resolved. I truly do apologize, but I cannot come in on Sundays. It's not just a preference.\
-> ___Boss:___ We will have to talk more about this later. For now, just get the thing fixed.
+> ___Boss:___ We will have to talk more about this later. For now, just work on getting the thing fixed, and I'll round up a team to cover your butt.
 
 ✝ __Scripture:__
 > Exodus 31:14 (ESV): "You shall keep the Sabbath, because it is holy for you...Whoever does any work on it, that soul shall be cut off from among his people."
 
 ☝ __First Principle:__
-> 
+> My commitment to God has to always come first. While I am responsible for my job, and of course I should do everything I can to make up for my mistake, I can never let earthly things get in the way of my walk with the Lord.
 
 ## Option 2: _Ask for Monday off instead_
 
@@ -40,7 +38,7 @@
 > Matthew 12:12 (ESV): "Of how much more value is a man than a sheep! So it is lawful to do good on the Sabbath."
 
 ☝ __First Principle:__
-> 
+> Although a day of rest is important, the specific day is not. Jesus and Paul made it clear that a legalistic view of the Sabbath does not lead to life. Besides, Sunday is not even the official day of the Sabbath, so as long as I still keep my day of rest on Monday, I am not violating this.
 
 ## Option 3: _Fix the bug, working for the Lord_
 
@@ -59,10 +57,10 @@
 > Mark 2:27 (ESV): "And he said to them, 'The Sabbath was made for man, not man for the Sabbath.'"
 
 ☝ __First Principle:__
-> 
+> Ultimately, whatever I am doing, whether I'm working or resting, I can do it for the glory of God. As Hebrews says, true rest is ultimately in God, not in a certain day. Therefore, as long as I am resting in God and trusting Him, I can be responsible at work and fix the problem I created.
 
 ## 🏁 Conclusion:
-> 
+> In this conundrum, the main struggle is between two commitments: to God and to work. There is also the added difficulty that I told my work about my commitment to God, so going back on that could reflect poorly on my character to my company as well. I have to ask myself how important not working on Sundays is to me, and if I would have a clear conscience about breaking that rule to right an issue I created.
 
 ## ✨Personal Choice:
-> 
+> I would likely choose option 2 if it came to it: moving my day of rest to Monday. This is a sort of "middle of the road" approach, both acknowledging the need for rest and accepting my responsibility for the problem. While none of these options are perfect, this one has the least extreme consequences.
