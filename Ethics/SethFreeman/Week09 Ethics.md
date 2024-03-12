@@ -37,7 +37,7 @@
 > ___Me:___ Sounds good! Again, I'm so sorry!
 
 ✝ __Scripture:__
-> 
+> Matthew 12:12 (ESV): "Of how much more value is a man than a sheep! So it is lawful to do good on the Sabbath."
 
 ☝ __First Principle:__
 > 
