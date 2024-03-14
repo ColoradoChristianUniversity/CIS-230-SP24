@@ -70,6 +70,6 @@
 >
 > We are called to bear the burderns of others, and this applies to one's self and others. Even if it is the Sabbath, one should help their coworkers in whatever way they can.
 
-<h2> ✍️ <font color="Cyan">My Personal Choice</font></h2>
+<h2> 🧠 <font color="Cyan">My Personal Choice</font></h2>
 
 >My personal choice of responses for this assignment would response 1. Though your personal commitment to the Sabbath is commendable, two wrongs do not make a right. Leaving your coworkers in the dark with a detrimental bug is not okay, and you must at least let them know that it exists. While response 3 is also a great choice, I believe that you must personally at least help to fix the problem through working.
