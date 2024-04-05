@@ -1,8 +1,8 @@
 # Week04 Ethics
 ## 🤔 Prompt:
-> 
+> While working for the government, you are asked to solve a seemingly impossible problem in 2 months. You find a third-party software that can do it, but procurement takes 6 months at a minimum. What are three possible responses? What do you do?
 
-## Option 1: _Option1_
+## Option 1: _Request an extension_
 
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
@@ -21,7 +21,7 @@
 ☝ __First Principle:__
 > 
 
-## Option 2: _Option2_
+## Option 2: _Enlist/request assistance_
 
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
@@ -39,7 +39,7 @@
 ☝ __First Principle:__
 > 
 
-## Option 3: _Option3_
+## Option 3: _Pray for wisdom_
 
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
