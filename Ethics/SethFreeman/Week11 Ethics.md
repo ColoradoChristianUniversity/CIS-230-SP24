@@ -16,7 +16,7 @@
 > ___Boss:___ We really need this done as soon as possible, but I will check with my boss and see what I can do.\
 
 ✝ __Scripture:__
-> 
+> Psalm 90:12 (ESV): "So teach us to number our days that we may get a heart of wisdom."
 
 ☝ __First Principle:__
 > 
@@ -34,7 +34,7 @@
 > ___Char2___ Of course, if you can find some guys, go for it. And I think I can spare another man from a different team. The most important thing is that it is finished on time.\
 
 ✝ __Scripture:__
-> 
+> Ecclesiastes 4:12 (ESV): "And though a man might prevail against one who is alone, two will withstand him—a threefold cord is not quickly broken."
 
 ☝ __First Principle:__
 > 
@@ -53,7 +53,7 @@
 > ___Me:___ Bless the Lord, O my soul!!!\
 
 ✝ __Scripture:__
-> 
+> James 1:5 (ESV): "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him."
 
 ☝ __First Principle:__
 > 
