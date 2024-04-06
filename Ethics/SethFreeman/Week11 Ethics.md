@@ -19,7 +19,7 @@
 > Psalm 90:12 (ESV): "So teach us to number our days that we may get a heart of wisdom."
 
 ☝ __First Principle:__
-> 
+> Since the primary issue is a lack of time, it makes the most sense for the solution to be gaining more time.
 
 ## Option 2: _Enlist/request assistance_
 
@@ -37,7 +37,7 @@
 > Ecclesiastes 4:12 (ESV): "And though a man might prevail against one who is alone, two will withstand him—a threefold cord is not quickly broken."
 
 ☝ __First Principle:__
-> 
+> Many hands make light work, and gaining the insights and aid of others will not only speed up the process, but add more experience and knowledge to help figure out the solution.
 
 ## Option 3: _Pray for wisdom_
 
@@ -56,7 +56,7 @@
 > James 1:5 (ESV): "If any of you lacks wisdom, let him ask God, who gives generously to all without reproach, and it will be given him."
 
 ☝ __First Principle:__
-> 
+> God knows the answer, and if it is His will that I know it, He will reveal it to me.
 
 ## 🏁 Conclusion:
 > In this situation, the problem presented is not so much a moral one as a resource one. There is just not enough time, so I must decide how to maximize my chances of accomplishing the task in time. Added to this is the fact that I simply don't know how to solve the problem, so it could take me any amount of time to figure it out. I cannot do this on my own, so my main concern is to whom/what I should turn for help.
