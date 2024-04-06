@@ -25,9 +25,9 @@
 
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
-| 1 | 1 |
-| 2 | 2 |
-| 3 | 3 |
+| Will expodite the procedure, helping me get it done on time | Drags other people away from other work they could be doing |
+| Shows initiative to do what's necessary to get the job done | Introduces extra complexity for coordination |
+| Avoids altering the initial timing | Possibly makes me look inefficient, if I require more to accomplish a task assigned only to me |
 
 📜 __Script:__
 > ___Char1___ Text\
@@ -43,9 +43,9 @@
 
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
-| 1 | 1 |
-| 2 | 2 |
-| 3 | 3 |
+| Requires faith in God and reliance on His wisdom | Does not guarantee results |
+| Uses the resources available to me without requiring more | Does not share my timing dilemma with someone who would have the power to make changes |
+| Could possibly lead to an even better solution than the third-party software uses | Will lead to awkward questions if I fail, and my only excuse is that "God didn't show me how to solve it", especially in a secular workplace |
 
 📜 __Script:__
 > ___Char1___ Text\
