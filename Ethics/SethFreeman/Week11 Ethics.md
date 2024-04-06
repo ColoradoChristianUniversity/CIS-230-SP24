@@ -48,7 +48,7 @@
 | Could possibly lead to an even better solution than the third-party software uses | Will lead to awkward questions if I fail, and my only excuse is that "God didn't show me how to solve it", especially in a secular workplace |
 
 📜 __Script:__
-> ___Me:___ Father in heaven, I ask that you would give me wisdom with this assignment. I feel inadequate,and I have no idea what to do or how to solve it. Please, if it's your will, show me the way, and help me to be faithful to my employer and do excellent work for you.\
+> ___Me:___ Father in heaven, I ask that you would give me wisdom with this assignment. I feel inadequate, and I have no idea what to do or how to solve it. Please, if it's your will, show me the way, and help me to be faithful to my employer and do excellent work for you.\
 > ___God:___ Just add the semicolon at the end of line 357.\
 > ___Me:___ Bless the Lord, O my soul!!!\
 
@@ -59,7 +59,7 @@
 > 
 
 ## 🏁 Conclusion:
-> 
+> In this situation, the problem presented is not so much a moral one as a resource one. There is just not enough time, so I must decide how to maximize my chances of accomplishing the task in time. Added to this is the fact that I simply don't know how to solve the problem, so it could take me any amount of time to figure it out. I cannot do this on my own, so my main concern is to whom/what I should turn for help.
 
 ## ✨Personal Choice:
-> 
+> Not to give the "standard Christian answer", but I would choose the third option: praying for wisdom. While this might not seem the most practical solution, I know that God does work through prayer, and I have many personal stories (and stories from my dad, who is an IT professional) of times when God has helped me solve something impossible under time constraints. I believe that He mainly wants me to trust Him, and He puts things like this in my life to test whether I will seek my own solution or rely on Him for His.
