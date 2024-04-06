@@ -12,8 +12,8 @@
 
 
 📜 __Script:__
-> ___Char1___ Text\
-> ___Char2___ Text\
+> ___Me:___ Hey, boss, this project seems like it is going to realistically take much longer than 2 months. There is a third-party software that could solve it, but it would require at least 6 months to procure. Is it possible that I could get an extension on the project? If you can't do six months, at least any extra time will help me figure it out on my own.\
+> ___Boss:___ We really need this done as soon as possible, but I will check with my boss and see what I can do.\
 
 ✝ __Scripture:__
 > 
@@ -30,8 +30,8 @@
 | Avoids altering the initial timing | Possibly makes me look inefficient, if I require more to accomplish a task assigned only to me |
 
 📜 __Script:__
-> ___Char1___ Text\
-> ___Char2___ Text\
+> ___Me:___ Realistically, I don't think I can finish this project in only two months by myself. Can I pull together a team to work on it, or is there anyone you could reassign to help me so we can deliver on time?\
+> ___Char2___ Of course, if you can find some guys, go for it. And I think I can spare another man from a different team. The most important thing is that it is finished on time.\
 
 ✝ __Scripture:__
 > 
@@ -48,8 +48,9 @@
 | Could possibly lead to an even better solution than the third-party software uses | Will lead to awkward questions if I fail, and my only excuse is that "God didn't show me how to solve it", especially in a secular workplace |
 
 📜 __Script:__
-> ___Char1___ Text\
-> ___Char2___ Text\
+> ___Me:___ Father in heaven, I ask that you would give me wisdom with this assignment. I feel inadequate,and I have no idea what to do or how to solve it. Please, if it's your will, show me the way, and help me to be faithful to my employer and do excellent work for you.\
+> ___God:___ Just add the semicolon at the end of line 357.\
+> ___Me:___ Bless the Lord, O my soul!!!\
 
 ✝ __Scripture:__
 > 
