@@ -7,7 +7,7 @@
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
 | Gives me more time to procure the third-party solution | Will likely not result in a 4 month extension, so it might not help me get the third-party software |
-| Could also give me more time to work on it myself if necessary | Makes me appear less valuable to my employer |
+| Could also give me more time to work on it myself if necessary | Makes me appear less valuable on my own to my employer |
 | Avoids unexplained tardiness on the solution | Will probably not gain sympathy from the manager who assignmed the the task, but just come across as complaining |
 
 
@@ -25,7 +25,7 @@
 
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
-| Will expodite the procedure, helping me get it done on time | Drags other people away from other work they could be doing |
+| Will expedite the procedure, helping me get it done on time | Drags other people away from other work they could be doing |
 | Shows initiative to do what's necessary to get the job done | Introduces extra complexity for coordination |
 | Avoids altering the initial timing | Possibly makes me look inefficient, if I require more to accomplish a task assigned only to me |
 
