@@ -4,33 +4,34 @@ While working for the government, you are asked to solve a seemingly impossible 
 
 # 3 Answers 🛠️
 
-## Option 1: 
+## Option 1: Inform the boss/stakeholders of the issue.
 |          |        |
 |--------- | ------- |
 |**🟢Pros**    | **🔴Cons** |
-|Very open and professional.| Boss could be mad that you introduced a critical bug to the program.|
-|Boss could be very appreciative towards you since you took time out of your Sunday to notify him.| |
+|Immediate Communication, lets stakeholders know of the issue.| Limited time for exploring the issue and alternative solutions|
+|Stakeholders have quick understanding of the issue.| Due to the quick understanding there could be big misunderstandings. |
 |||
 
  **🎭Script**
 
- ➖ Boss: 
+ ➖ Boss/stakeholders: What's the status regarding the problem we talked about?
 
- ➖ Me: 
+ ➖ Me: Well, a solution I found requires a 3rd party software but the procurement will take at least 6 months.
 
- ➖ Boss:
+ ➖ Boss: Well that is three times longer then it needs to be!
 
- ➖ Me: 
+ ➖ Me: I know, my only suggestion as of now is to focus on finding ways to speed of the procurement and other solutions while we wait. 
 
   
 **📙Scripture**
-> Proverbs 19:20 NIV
+> Proverbs 15:22 NIV
+-Plans fail for lack of counsel, but with many advisers they succeed.
 
 
 **👍First Principle**
-> Prioritize fixing your mistakes in a quality way.  
+>   Transparency and prompt communication are essentail for addressing challenges. 
 
-## Option 2: 
+## Option 2: Continue the search of faster options
 |          |        |
 |--------- | ------- |
 |**🟢Pros**    | **🔴Cons** |
