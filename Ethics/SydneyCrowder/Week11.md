@@ -35,27 +35,29 @@ While working for the government, you are asked to solve a seemingly impossible 
 |          |        |
 |--------- | ------- |
 |**🟢Pros**    | **🔴Cons** |
-|Shows that you care and want to fix the issue even though it is on a Sunday.| You might have some conflicted feelings regarding personal beliefs about Sunday.|
-|Other colleagues who work on Sunday can help you.| People who are working Sunday are going to be annoyed that they have to help you, instead of doing their job. |
+|Adhearing to the regulations is important as it shows compliance with the governmental procedures and polices.| Time constraint could still delay the fixing of the problem.|
+|Shows the proactive effort that you giving. |
 |||
 
 
  **🎭Script**
 
- ➖ Me: 
+ ➖ Boss: What is the status on solving the problem we discussed?
 
- ➖ Boss:
+ ➖ Me: Okay, getting the necessary software is going to take at least 6 months, but I am currently exploring different options.
 
- ➖ Me: 
+ ➖ Boss: Can we speed up the process any?
 
- ➖ Boss: 
+ ➖ Me: Unfortunatly, we are limited by the specific software needing 6 months, but I am looking for alternatives. 
+
   
 **📙Scripture**
-> Ecclesiastes 4:9- NIV
+> Proverbs 21:5 NIV
+- The plans of the diligent lead to profit as surely as haste leads to poverty. 
 
 
 **👍First Principle**
-> It is important to focus on collaboration while maintaining a work-life balance. 
+> It is important to follow the regulations but being proactive to explore alternatives within constraints shows commitment to finding the best solution.  
 
 ## Option 3: 
  
