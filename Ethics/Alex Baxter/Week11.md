@@ -10,15 +10,15 @@ Answer
 
 | 👍 Pros: | 👎Cons: |
 | -------- | ------- |
-| 1. Clarity of why the deadline exits| 1.If the deadline has good reasons or bad reasons but cannot be moved then I'm not nessisarially closer to solving the problem. |
-| 2. Understanding the reason why the deadline exits can help in identifying how to solve the problem| 2.      |
+| 1. Clarity of why the deadline exits| 1. If the deadline has good reasons or bad reasons but cannot be moved then I'm not necessarily closer to solving the problem.|
+| 2. Understanding the reason why the deadline exits can help in identifying how to solve the problem|
 
 
     Script: 
 
-        Me: Hey, I just wanted to confirm the deadline on this project. It seems quite fast given the workload. Is there a reason for that.
+    Me: Hey, I just wanted to confirm the deadline for this project. It seems quite fast given the workload. Is there a reason for that?
 
-    Senior: It was set by upper managment I can see What the thought behind it was.
+    Senior: It was set by upper management I can see What the thought behind it was.
 
 📖 Scripture
 
@@ -28,21 +28,20 @@ Answer
 
 1️⃣ st Principle:
 
-- It is good to undertsnad motivations of the people who you serve so you can better honnor their requests. 
-
+- It is good to understand the motivations of the people whom you serve so you can better honor their requests. 
 ## <span style='color: red;'>Option 2: Sugest the 3rd party Software </span>
 
 | 👍 Pros: | 👎Cons: |
 | -------- | ------- |
-| 1. sure soulution. | 1. Will take longer than the deadline allows|
-| 2.                 | 2. 3rd party soulutions sometimes add compplexity|
-| 3.                 | 3. 3rd party soulutions are sometimes more expensive|
+| 1. sure solution.  | 1. Will take longer than the deadline allows|
+|                | 2. 3rd party solutions sometimes add compplexity|
+|                | 3. 3rd party solutions are sometimes more expensive|
 
 
      Script:
      
-     Me: I have found a company that can solve our problems. It will just take longer than the deadline allows. I am not sure if there is even a way to hit the 2 month deadline without external help.
-     Senior: Interesting fix, Lets keep digging to see if there's somehting that fits closer within spec.
+     Me: I have found a company that can solve our problems. It will just take longer than the deadline allows. I am not sure if there is even a way to hit the 2-month deadline without external help.
+     Senior: Interesting fix, Let's keep digging to see if there's something that fits closer within spec.
 
 📖 Scripture
 
@@ -52,21 +51,20 @@ Answer
 
 1️⃣ st Principle:
 
-- If a soulution works it is worth being patient for. Patiences is a vurture. 
+- If a solution works it is worth being patient for. Patience is a virtue. 
 
 ## <span style='color: red;'>Option 3: Seek help from other staff or contractors. </span>
 
 | 👍 Pros: | 👎Cons: |
 | -------- | ------- |
-| 1.May be able to solve problem before deadline.| 1.Expensive|
-| 2.       | 2.Not garenteed to solve the probleme faster or cheaper|
-| 3.       | 3.      |
+| 1.May be able to solve the problem before the deadline.| 1.Expensive|
+|        | 2.Not guaranteed to solve the problem faster or cheaper|
 
 
     Script:
 
-    Me: This project seems urgent but also increadibly difficult. I am not sure I can handle it on my own. Can we bring in some extra hands to get the project done one time.
-    Seniot: That seems like a good idea. Make a list of the skills sets you'll think youll need and we can figure something out
+     Me: This project seems urgent but also incredibly difficult. I am not sure I can handle it on my own. Can we bring in some extra hands to get the project done one time?
+    Senior: That seems like a good idea. Make a list of the skill sets you'll think you need and we can figure something out
 
 📖 Scripture
 
@@ -78,8 +76,8 @@ Answer
 
 - 
 # <span style='color: Orange;'>Excursus </span>
-The biggest issue in this circumastance is the deadline. Clearly there is a soulution that exits, It is just a matter of when it implmented. Assessing motives and communicating clearly are very important skills to develop in the workplace and in relationships.
+The biggest issue in this circumstance is the deadline. There is a solution that exists, It is just a matter of when it is implemented. Assessing motives and communicating are very important skills to develop in the workplace and relationships.
 
 
 # <span style='color: Orange;'>My Choice</span>
-The clear choice to me is to thouroghly acesss the motivations of why the deadline is set. There is a large difference between being morivated by a national security threat or an abitrary deadline set by a large buracracy. Understanding the reason for the presived urgancey will. Starting the project this way allows for clearer boundaries for the scope of the project, and may help to find a soultuion that solves the same problem without the difficulty. 
+The clear choice to me is to thoroughly assess the motivations of why the deadline is set. There is a large difference between being motivated by a national security threat or an arbitrary deadline set by a large bureaucracy. Understanding the reason for the perceived urgency will. Starting the project this way allows for clearer boundaries for the scope of the project, and may help to find a solution that solves the same problem without difficulty. 
