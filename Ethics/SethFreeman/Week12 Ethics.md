@@ -7,9 +7,9 @@
 
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
-| 1 | 1 |
-| 2 | 2 |
-| 3 | 3 |
+| Doesn't compromise my conscience | Will almost certainly cause conflict, and I could still not be granted the exemption |
+| Reveals my stance on the subject and my faith | Singles me out as 'uninclusive and hateful' |
+| May encourage others of similar beliefs to do likewise | Could possibly result in a demotion or layoff |
 
 
 📜 __Script:__
@@ -26,9 +26,9 @@
 
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
-| 1 | 1 |
-| 2 | 2 |
-| 3 | 3 |
+| Avoids conflict while maintaining a clear conscience | Does not share my belief on the subject, potentially creating more issues down the road |
+| Gives me personal time to invest in my family and my relationship with God | Takes valuable time off work, possibly causing issues if I am not granted the time off, but don't show up anyway |
+| Allows for me to think over the situation and decide how to approach it in the future | Will still possibly single me out as the person who didn't show up for the 'celebration' |
 
 📜 __Script:__
 > ___Char1___ Text\
@@ -44,9 +44,9 @@
 
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
-| 1 | 1 |
-| 2 | 2 |
-| 3 | 3 |
+| Clearly explains my position and beliefs | Could get me fired for refusing to comply with company policy |
+| If God wills, could possibly convict some people's consciences | Will ostracize me from nearly everyone who does not share the same beliefs |
+| Opens the door to private conversations about this issue | Will likely push other people away and close some doors of communication |
 
 📜 __Script:__
 > ___Char1___ Text\
