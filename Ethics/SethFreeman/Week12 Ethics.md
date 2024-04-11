@@ -13,8 +13,8 @@
 
 
 📜 __Script:__
-> ___Char1___ Text\
-> ___Char2___ Text
+> ___Me:___ Hello, I am calling in response to a recent email regarding the dress code this Thursday. THe email said that we will be required to wear a rainbow pin. However, this practice would violate my religious beliefs, so I am requesting that I be exempted from the requirement. I will not cause any further trouble, and I will keep my beliefs to myself.\
+> ___HR Rep:___ I am not sure if I can authorize that. I will get back to you before Thursday.
 
 ✝ __Scripture:__
 > 
@@ -31,8 +31,10 @@
 | Allows for me to think over the situation and decide how to approach it in the future | Will still possibly single me out as the person who didn't show up for the 'celebration' |
 
 📜 __Script:__
-> ___Char1___ Text\
-> ___Char2___ Text
+> ___Me:___ Hey, boss, I'm so sorry for the late notice, but I need to request time off from work tomorrow.\
+> ___Boss:___ You're right, this is quite late for that. Is it an emergency?\
+> ___Me:___ Yeah, I apologize, but I do specifically need Thrusday off it it's possible.\
+> ___Boss:___ (*Sighs*) I will put in the request for you and see if I can make it happen. But you're gonna have a lot of catchup work on Friday.
 
 ✝ __Scripture:__
 > 
@@ -49,8 +51,11 @@
 | Opens the door to private conversations about this issue | Will likely push other people away and close some doors of communication |
 
 📜 __Script:__
-> ___Char1___ Text\
-> ___Char2___ Text
+> ___Co-worker:___ Hey, where's your rainbow pin?\
+> ___Me:___ While I respect everyone's personal beliefs, and I am not trying to force my own on people, I can't personally support this celebration. I believe that homosexual relationships are contrary to God's design, and while I don't hate gay people at all, I can't support those actions in a right conscience.\
+> ___Co-worker:___ So, what I just heard is that you're a racist, sexist, homophobic, white, male, chauvinistic bigot who endorses the oppression of the underprivilaged and would support Hitler, were he still around!!!
+> ___Me:___ What???\
+> *\*This is a joke\**
 
 ✝ __Scripture:__
 > 
