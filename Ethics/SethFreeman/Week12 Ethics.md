@@ -64,7 +64,7 @@
 > We are called to share our faith, and taking a firm stance on issues may open opportunities for deeper conversations that can lead to this.
 
 ## 🏁 Conclusion:
-> 
+> In this situation, I am faced with an immoral requirement that, if unmet, will poorly affect my material situation. I have to find a way, if possible, to avoid defiling my conscience without compromising my position or even pushing people away from the Gospel. I also have to decide whether or not to reveal my stance on the issue, and if so, how to approach it in a winsome way.
 
 ## ✨Personal Choice:
-> 
+> Although none of these options sound perfect to me, I would probably choose option 1: asking for a religious expemption. It expresses my understanding on the issue without seeming pushy, and it remains within the company's procedure instead of simply refusing or leaving. It shows that, while I do not feel comfortable with compliance, I am not simply defiant.
