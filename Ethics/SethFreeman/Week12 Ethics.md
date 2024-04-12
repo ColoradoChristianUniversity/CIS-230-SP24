@@ -20,7 +20,7 @@
 > Acts 5:29 (ESV): "But Peter and the apostles answered, 'We must obey God rather than men.'"
 
 ☝ __First Principle:__
-> 
+> Oftentimes, people are granted exemptions from some policies based on their religious beliefs, so theoretically, Christianity shouldn't be treated differently (although it often is, to my understanding).
 
 ## Option 2: _Request Time Off/Don't Show Up_
 
@@ -40,7 +40,7 @@
 > Proverbs 15:28 (ESV): "The heart of the righteous ponders how to answer, but the mouth of the wicked pours out evil things."
 
 ☝ __First Principle:__
-> 
+> Not being present is the surest way to maintain a clear conscience while not causing issues. It doesn't solve the long-term problem, but it gives me time to think, which can help me find a better solution.
 
 ## Option 3: _Speak Out Against the Requirement_
 
@@ -61,7 +61,7 @@
 > Acts 4:19-20 (ESV) - "But Peter and John answered them, 'Whether it is right in the sight of God to listen to you rather than to God, you must judge.'"
 
 ☝ __First Principle:__
-> 
+> We are called to share our faith, and taking a firm stance on issues may open opportunities for deeper conversations that can lead to this.
 
 ## 🏁 Conclusion:
 > 
