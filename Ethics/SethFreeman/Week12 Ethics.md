@@ -33,7 +33,7 @@
 📜 __Script:__
 > ___Me:___ Hey, boss, I'm so sorry for the late notice, but I need to request time off from work tomorrow.\
 > ___Boss:___ You're right, this is quite late for that. Is it an emergency?\
-> ___Me:___ Yeah, I apologize, but I do specifically need Thrusday off it it's possible.\
+> ___Me:___ Yeah, I apologize, but I do specifically need Thursday off it it's possible.\
 > ___Boss:___ (*Sighs*) I will put in the request for you and see if I can make it happen. But you're gonna have a lot of catchup work on Friday.
 
 ✝ __Scripture:__
@@ -53,9 +53,8 @@
 📜 __Script:__
 > ___Co-worker:___ Hey, where's your rainbow pin?\
 > ___Me:___ While I respect everyone's personal beliefs, and I am not trying to force my own on people, I can't personally support this celebration. I believe that homosexual relationships are contrary to God's design, and while I don't hate gay people at all, I can't support those actions in a right conscience.\
-> ___Co-worker:___ So, what I just heard is that you're a racist, sexist, homophobic, white, male, chauvinistic bigot who endorses the oppression of the underprivilaged and would support Hitler, were he still around!!!
-> ___Me:___ What???\
-> *\*This is a joke\**
+> ___Co-worker:___ (*\*This is a joke\**) So, what I just heard is that you're a racist, sexist, homophobic, white, male, chauvinistic bigot who endorses the oppression of the underprivilaged and would support Hitler, were he still alive!!!\
+> ___Me:___ What???
 
 ✝ __Scripture:__
 > Acts 4:19-20 (ESV) - "But Peter and John answered them, 'Whether it is right in the sight of God to listen to you rather than to God, you must judge.'"
