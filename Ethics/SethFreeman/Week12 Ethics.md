@@ -17,7 +17,7 @@
 > ___HR Rep:___ I am not sure if I can authorize that. I will get back to you before Thursday.
 
 ✝ __Scripture:__
-> 
+> Acts 5:29 (ESV): "But Peter and the apostles answered, 'We must obey God rather than men.'"
 
 ☝ __First Principle:__
 > 
@@ -37,7 +37,7 @@
 > ___Boss:___ (*Sighs*) I will put in the request for you and see if I can make it happen. But you're gonna have a lot of catchup work on Friday.
 
 ✝ __Scripture:__
-> 
+> Proverbs 15:28 (ESV): "The heart of the righteous ponders how to answer, but the mouth of the wicked pours out evil things."
 
 ☝ __First Principle:__
 > 
@@ -58,7 +58,7 @@
 > *\*This is a joke\**
 
 ✝ __Scripture:__
-> 
+> Acts 4:19-20 (ESV) - "But Peter and John answered them, 'Whether it is right in the sight of God to listen to you rather than to God, you must judge.'"
 
 ☝ __First Principle:__
 > 
