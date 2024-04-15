@@ -31,5 +31,18 @@ While working your dream job for a major engineering firm, you get an email from
 - **Biblical Reference:** "I have become all things to all people so that by all possible means I might save some." - 1 Corinthians 9:22b
 - **First Principle:** This option lets you display love and compassion to everybody, regardless of their background. It tears down some of the stigma surrounding Christian involvement in LGBTQ issues if you are willing to set your own pride aside and be flexible for the purpose of building relationships with the people you're trying to reach.
 
+### **Response 3: Push Back on the Initiative Itself**
+| 🟢 Pros | 🔴 Cons |
+|-|-|
+| You attack the source of the conflict | Terrible for team-building if anybody in support of the initiative finds out you pushed back |
+| Sets a clear boundary | If your request is declined, your reputation with management goes downhill |
+| You might be able to fall back on at least getting a personal exemption |  |
+- **Dialog:**
+  - You: "Good morning [HR], I saw the memo about the upcoming DEI initiative and I was hoping to push back on it a little bit. Forcing everybody to embrace these values actually does the opposite of the intended effect of inclusion because it excludes people with opposing beliefs."
+  - HR: "I hear your concerns and understand where you stand on it, but we've made too much progress to abandon the initiative at this point. We can grant you a personal exception to the requirements if that's how you'd like to proceed."
+  - You: "Understood, thank you for your time and consideration."
+- **Biblical Reference:** "It is for freedom that Christ has set us free. Stand firm, then, and do not let yourselves be burdened again by a yoke of slavery." - Galatians 5:1 (NIV)
+- **First Principle:** This option lets you face the issue head-on and gives you a couple options to fall back on. It also carries the most risk of any of the three due to the ramifications of possible failure. This is a viable option if you want to take an active approach instead of a passive approach like the other two.
+
 ### My Reponse
 As someone who has grown up around several people who have, in the last few years, chosen to transition from male to female or vice versa, I believe that compassion has to be the first priority in interactions with LGBTQ people. Regardless of how they choose to identify themselves, they are still the same person and are still worthy of respect, compassion, and the same love that Jesus shows all of us. If wearing a pin and putting pronouns in your online profile is all it takes to break down any barriers that they might feel about talking with you, then I believe it would be foolish to not wear the pin and use the pronouns. Excluding others on the basis of their sins is not an effective way to reach people who are already broken. I would choose option 2.
