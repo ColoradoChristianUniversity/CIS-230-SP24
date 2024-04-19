@@ -15,7 +15,7 @@
 > ___Me:___ Father in Heaven, I pray that you would work in the heart of my pastor. If he is holding back from you, I ask that you would convict him with your Holy Spirit, but if I am misunderstanding, I pray that you would reveal that to me. I pray in Jesus' name, Amen.\
 
 ✝ __Scripture:__
-> 
+> 1 Corinthians 4:3-4 (ESV): "But with me it is a very small thing that I should be judged by you or by any human court. In fact, I do not even judge myself. For I am not aware of anything against myself, but I am not thereby acquitted. It is the Lord who judges me."
 
 ☝ __First Principle:__
 > 
@@ -52,7 +52,7 @@
 > ___Elders:___ Oh, that is simply because his paycheck is taken from the offerings, so a portion of his tithe would end up back in his pocket. Thank you for bringing this up to us!
 
 ✝ __Scripture:__
-> 
+> 1 Timothy 5:20 (ESV): "As for those who persist in sin, rebuke them in the presence of all, so that the rest may stand in fear."
 
 ☝ __First Principle:__
 > 
