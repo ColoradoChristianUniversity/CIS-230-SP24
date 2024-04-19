@@ -18,7 +18,7 @@
 > 1 Corinthians 4:3-4 (ESV): "But with me it is a very small thing that I should be judged by you or by any human court. In fact, I do not even judge myself. For I am not aware of anything against myself, but I am not thereby acquitted. It is the Lord who judges me."
 
 ☝ __First Principle:__
-> 
+> Not tithing to a particular church is not necessarily a direct sin, but rather a matter of conscience. A person's conscience is between them and the Lord, and it is not my place to judge their motives.
 
 ## Option 2: _Privately Ask Him About It_
 
@@ -37,7 +37,7 @@
 > Matthew 18:15 (ESV): "If your brother sins against you, go and tell him his fault, between you and him alone. If he listens to you, you have gained your brother."
 
 ☝ __First Principle:__
-> 
+> Bringing it up to the pastor directly will not only ease my mind if I'm wrong, but possibly cause repentence if I'm right or reveal a deeper problem that could make the pastor unfit to lead the church. Either way, starting with the individual themselves will seem more respectful than bringing others into it right off the bat.
 
 ## Option 3: _Bring It Up to the Elders_
 
@@ -55,7 +55,7 @@
 > 1 Timothy 5:20 (ESV): "As for those who persist in sin, rebuke them in the presence of all, so that the rest may stand in fear."
 
 ☝ __First Principle:__
-> 
+> The elders will be able to address the situation from a place of greater knowledge, experience, and authority. Therefore, bringing it to their attention will help me make the right decision moving forward.
 
 ## 🏁 Conclusion:
 > 
