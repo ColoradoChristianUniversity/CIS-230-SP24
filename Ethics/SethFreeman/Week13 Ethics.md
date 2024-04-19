@@ -2,7 +2,7 @@
 ## 🤔 Prompt:
 > While volunteering to help with computers at your church, you are given access to giving records. Because of your work, you unexpectedly discover your senior pastor does not give anything to your church. What are three possible responses? What do you do?
 
-## Option 1: _Option1_
+## Option 1: _Leave it Between Him and the Lord_
 
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
@@ -21,7 +21,7 @@
 ☝ __First Principle:__
 > 
 
-## Option 2: _Option2_
+## Option 2: _Privately Ask Him About It_
 
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
@@ -39,7 +39,7 @@
 ☝ __First Principle:__
 > 
 
-## Option 3: _Option3_
+## Option 3: _Bring it Up to the Elders_
 
 | 🟢 Pros      | 🔴 Cons       |
 | ------------- | ------------- |
