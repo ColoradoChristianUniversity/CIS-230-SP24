@@ -58,7 +58,7 @@
 > The elders will be able to address the situation from a place of greater knowledge, experience, and authority. Therefore, bringing it to their attention will help me make the right decision moving forward.
 
 ## 🏁 Conclusion:
-> 
+> In this scenario, I must decide whether or not to address another person's concerning behavior, when it may be simply a matter of their conscience. If I am going to, there is still the tension between keeping it private and seeking guidance on how to address it. The fact that the individual in question is a respected pastor of my church makes the situation even more sticky, because I am speaking as someone under his spiritual authority.
 
 ## ✨Personal Choice:
-> 
+> I would personally choose to abide by option 1: leaving the issue to the Pastor's conscience. Unless it is going to bug me or I won't be able to mentally rest unless I understand, I don't believe the Spirit will convict him if his conscience isn't clear. I think that a person's personal giving to the church is between them and God, and it is not my place to judge their decisions. If I will be tempted to judge him until I understand, then I should choose option 2, but otherwise, option 1 would be my picka
