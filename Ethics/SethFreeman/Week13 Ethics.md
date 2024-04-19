@@ -29,7 +29,7 @@
 | Involves no one who is not directly concerned | Could cause a strained relationship with the pastor if he is in the wrong, but does not repent |
 
 📜 __Script:__
-> ___Me:___ Thank you for meeting with me privately, Pastor ________. I appreciate your time. I just had some questions of a personal nature. When I was working on the computer systems, sorting throught he giving records, I couldn't help but notice that there aren't any records of you giving to this church. I wasn't trying to snoop, it was just part of my job. I don't want to jump to any conclusions or anything, so I just wanted to ask you in person what your policy on this is.\
+> ___Me:___ Thank you for meeting with me privately, Pastor ________. I appreciate your time. I just had some questions of a personal nature. When I was working on the computer systems, sorting through the giving records, I couldn't help but notice that there aren't any records of you giving to this church. I wasn't trying to snoop, it was just part of my job. I don't want to jump to any conclusions or anything, so I just wanted to ask you in person what your policy on this is.\
 > ___Pastor:___ Oh, of course! No problem. So, several years ago, when I was at a different church, I was tithing regularly to that church. But the trustees pulled me aside and said that, because my salary is taken from the general offerings, I was actually contributing to my own paycheck. I felt like this was cheating God, in a sense--not giving Him my full tithe--so I started using that money to give to other charities instead. Does that make sense?\
 > ___Me:___ Yes, thank you for explaining!
 
@@ -37,7 +37,7 @@
 > Matthew 18:15 (ESV): "If your brother sins against you, go and tell him his fault, between you and him alone. If he listens to you, you have gained your brother."
 
 ☝ __First Principle:__
-> Bringing it up to the pastor directly will not only ease my mind if I'm wrong, but possibly cause repentence if I'm right or reveal a deeper problem that could make the pastor unfit to lead the church. Either way, starting with the individual themselves will seem more respectful than bringing others into it right off the bat.
+> Bringing it up to the pastor directly will not only ease my mind if I'm wrong, but possibly cause repentance if I'm right or reveal a deeper problem that could make the pastor unfit to lead the church. Either way, starting with the individual themselves will seem more respectful than bringing others into it right off the bat.
 
 ## Option 3: _Bring It Up to the Elders_
 
@@ -45,7 +45,7 @@
 | ------------- | ------------- |
 | Allows for more than one person to decide whether it's worth the confrontation or not | Jumps to a more severe solution before tying gentler methods |
 | The Senior Pastor is more likely to hear it from other elders than from me | Spreads private information that I had access to because of my special role, betraying that trust |
-| Allows for more wisdom to be applied in how to bring it up to the pastor | Will reflect pooly on me if the situation is not what I thought, but I brought it to the elders before finding out the truth |
+| Allows for more wisdom to be applied in how to bring it up to the pastor | Will reflect poorly on me if the situation is not what I thought, but I brought it to the elders before finding out the truth |
 
 📜 __Script:__
 > ___Me:___ I appreciate all of you agreeing to meet with me. I just saw something in the church giving records that concerned me, and I wanted to get your feedback on it. According to those records, our Senior Pastor doesn't give anything to our own church. Did you know about this? Is it something I should ask him about?\
@@ -61,4 +61,4 @@
 > In this scenario, I must decide whether or not to address another person's concerning behavior, when it may be simply a matter of their conscience. If I am going to, there is still the tension between keeping it private and seeking guidance on how to address it. The fact that the individual in question is a respected pastor of my church makes the situation even more sticky, because I am speaking as someone under his spiritual authority.
 
 ## ✨Personal Choice:
-> I would personally choose to abide by option 1: leaving the issue to the Pastor's conscience. Unless it is going to bug me or I won't be able to mentally rest unless I understand, I don't believe the Spirit will convict him if his conscience isn't clear. I think that a person's personal giving to the church is between them and God, and it is not my place to judge their decisions. If I will be tempted to judge him until I understand, then I should choose option 2, but otherwise, option 1 would be my picka
+> I would personally choose to abide by option 1: leaving the issue to the Pastor's conscience. Unless it is going to bug me or I won't be able to mentally rest unless I understand, I don't believe the Spirit will convict him if his conscience isn't clear. I think that a person's personal giving to the church is between them and God, and it is not my place to judge their decisions. If I will be tempted to judge him until I understand, then I should choose option 2, but otherwise, option 1 would be my pick.
