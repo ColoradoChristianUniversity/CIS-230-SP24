@@ -1,7 +1,7 @@
 # Week 13 Ethics
 
 ## First Response
-### Bible Verse: 
+### Bible Verse: Deuteronomy 14:22–23: You shall tithe all the yield of your seed that comes from the field year by year. And before the Lord your God, in the place that he will choose, to make his name dwell there, you shall eat the tithe of your grain, of your wine, and of your oil, and the firstborn of your herd and flock, that you may learn to fear the Lord your God always.
 | Pros                                                                                 | Cons                                                       |
 | ------------------------------------------------------------------------------------ | ---------------------------------------------------------- |
 | Provides an opportunity for confronting the pastor about their lack of giving.       | May strain the relationship with the pastor.               |
@@ -15,7 +15,7 @@
 ### First Principle: Accountability
 
 ## Second Response
-### Bible Verse: 
+### Bible Verse: Deuteronomy 14:22–23: You shall tithe all the yield of your seed that comes from the field year by year. And before the Lord your God, in the place that he will choose, to make his name dwell there, you shall eat the tithe of your grain, of your wine, and of your oil, and the firstborn of your herd and flock, that you may learn to fear the Lord your God always.
 | Pros                                                           | Cons                                                                       |
 | -------------------------------------------------------------- | -------------------------------------------------------------------------- |
 | Respect the privacy of the pastor's financial situation.       | May perpetuate a lack of accountability in church leadership.              |
@@ -29,7 +29,7 @@
 ### First Principle: Encouragement
 
 ## Third Response
-### Bible Verse: 
+### Bible Verse: Deuteronomy 14:22–23: You shall tithe all the yield of your seed that comes from the field year by year. And before the Lord your God, in the place that he will choose, to make his name dwell there, you shall eat the tithe of your grain, of your wine, and of your oil, and the firstborn of your herd and flock, that you may learn to fear the Lord your God always.
 | Pros                                                                  | Cons                                                                    |
 | --------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | Approach the pastor with humility and empathy.                        | Could lead to disappointment if the pastor does not respond positively. |
