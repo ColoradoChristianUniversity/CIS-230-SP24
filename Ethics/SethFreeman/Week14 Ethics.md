@@ -18,7 +18,7 @@
 > Matthew 24:9-10 (ESV): "Then they will deliver you up to tribulation and put you to death, and you will be hated by all nations for my name's sake. And then many will fall away and betray one another and hate one another."
 
 ☝ __First Principle:__
-> 
+> Ultimately, persecution will increase before Christ returns, so whether I have a hand in accelerating it or not, God's Will will be accomplished, and the outcome will be the same.
 
 ## Option 2: _Consider Alternate Employment_
 
@@ -37,7 +37,7 @@
 > Acts 24:16 (ESV): "So I always take pains to have a clear conscience toward both God and man."
 
 ☝ __First Principle:__
-> 
+> I should never allow my career to compromise my faith. If I am in a position where my job is at odds with God, I cannot remain there.
 
 ## Option 3: _Join an Institution for Religious Inclusion_
 
@@ -54,7 +54,7 @@
 > Acts 5:29 (ESV): "But Peter and the apostles answered, 'We must obey God rather than men.'"
 
 ☝ __First Principle:__
-> 
+> A tool is just a tool; neither evil nor good. It is the use of the tool that can have moral implications, but that use is not up to me, as the developer. Thus, the best thing I can do is work against that ungodly use outside of my career.
 
 ## 🏁 Conclusion:
 > 
