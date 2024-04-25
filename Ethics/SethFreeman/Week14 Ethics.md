@@ -12,8 +12,7 @@
 
 
 📜 __Script:__
-> ___Char1___ Text\
-> ___Char2___ Text\
+> ___Me:___ Father in Heaven, I know that this is all a part of your Will. I know that you will triumph over Satan's schemes in the end, but that the time before will result in heavy persecution. I pray that you would forgive me for any roll I had in moving this persecution forward. Your Will be done. Amen.
 
 ✝ __Scripture:__
 > 
@@ -30,8 +29,9 @@
 | Lets me keep a clear conscience | Could mark me as a target for future religious persection |
 
 📜 __Script:__
-> ___Char1___ Text\
-> ___Char2___ Text\
+> ___Me:___ I have given this a lot of thought, and I have decided that this company and me are trying to move in different directions. I cannot support the goals and principles of this company. I truly appreciate the opportunity to work here, and I value every day I've spent as your employee, but I have decided to resign from my position.\
+> ___Boss:___ I'll buy you Chick-Fil-A to stay.\
+> ___Me:___ 😏
 
 ✝ __Scripture:__
 > 
@@ -48,8 +48,7 @@
 | Reveals my stance on the issue without ending my career | Will take up valuable time from my job, possibly resulting in lower performance |
 
 📜 __Script:__
-> ___Char1___ Text\
-> ___Char2___ Text\
+> ___Me:___ _(Inner dialogue)_ What can I do to support what I believe in without either ruining my career or appearing insufferably prudish? Hmm... Well, this tool is ultimately going to be used by the government, so if I fight a political battle for religious acceptance in public, then perhaps I can undo some of the damage it will cause.
 
 ✝ __Scripture:__
 > 
