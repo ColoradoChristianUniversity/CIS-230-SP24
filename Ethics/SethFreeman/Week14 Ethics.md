@@ -15,7 +15,7 @@
 > ___Me:___ Father in Heaven, I know that this is all a part of your Will. I know that you will triumph over Satan's schemes in the end, but that the time before will result in heavy persecution. I pray that you would forgive me for any roll I had in moving this persecution forward. Your Will be done. Amen.
 
 ✝ __Scripture:__
-> 
+> Matthew 24:9-10 (ESV): "Then they will deliver you up to tribulation and put you to death, and you will be hated by all nations for my name's sake. And then many will fall away and betray one another and hate one another."
 
 ☝ __First Principle:__
 > 
@@ -34,7 +34,7 @@
 > ___Me:___ 😏
 
 ✝ __Scripture:__
-> 
+> Acts 24:16 (ESV): "So I always take pains to have a clear conscience toward both God and man."
 
 ☝ __First Principle:__
 > 
@@ -51,7 +51,7 @@
 > ___Me:___ _(Inner dialogue)_ What can I do to support what I believe in without either ruining my career or appearing insufferably prudish? Hmm... Well, this tool is ultimately going to be used by the government, so if I fight a political battle for religious acceptance in public, then perhaps I can undo some of the damage it will cause.
 
 ✝ __Scripture:__
-> 
+> Acts 5:29 (ESV): "But Peter and the apostles answered, 'We must obey God rather than men.'"
 
 ☝ __First Principle:__
 > 
