@@ -35,7 +35,7 @@
 > ___Boss:___ Ugh. There are some days when I hate the cultural emphasis on toleration and inclusivity of people's beliefs.
 
 ✝ __Scripture:__
-> 
+> Ephesians 5:11 (ESV): "Take no part in the unfruitful works of darkness, but instead expose them."
 
 ☝ __First Principle:__
 > 
@@ -52,7 +52,7 @@
 > ___Me:___ I am here today to spread awareness for the devastating detrements of a prolific substance in our world: tabacco. Although smoking tabacco is long-enforced habit (and let's face it: addiction) for many, it's health detrements are severe. It causes cancer, heart desease, lung damage, and psychological harms as well. In addition, the Bible says that we are not to be dominated by anything. Tabacco have dominated the lives of far too many people, and it is time to put a stop to it!\
 
 ✝ __Scripture:__
-> 
+> Matthew 5:16 (ESV): "In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven."
 
 ☝ __First Principle:__
 > 
