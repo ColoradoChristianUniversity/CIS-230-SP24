@@ -38,7 +38,7 @@
 > Ephesians 5:11 (ESV): "Take no part in the unfruitful works of darkness, but instead expose them."
 
 ☝ __First Principle:__
-> 
+> If I cannot support this tabacco company, then I must stand for what I believe. A clear conscience is far more valuable than a conflict-free life, and I would rather hear God tell me "well done" when this life is over than violate my conscience for temporary ease.
 
 ## Option 3: _Spread Awareness of the Harms of Smoking_
 
@@ -55,7 +55,7 @@
 > Matthew 5:16 (ESV): "In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven."
 
 ☝ __First Principle:__
-> 
+> If I am not going to take action against it in the workplace, then I can at least do what I can to combat the harm outside of the workplace. This way, I do not cause unnecessary issues, but work for what I believe.
 
 ## 🏁 Conclusion:
 > 
