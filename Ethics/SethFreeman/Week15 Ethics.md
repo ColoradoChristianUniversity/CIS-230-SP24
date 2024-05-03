@@ -12,14 +12,14 @@
 
 
 📜 __Script:__
-> ___Char1___ Text\
-> ___Char2___ Text\
+> ___Boss:___ We are being contracted by a tabacco company to analyze their data sets and formulate better marketing strategies. We need to figure out our workflow, brainstorm solutions, and assign tasks to our teams.\
+> ___Me:___ Okay, sounds good. I will get working on that.\
 
 ✝ __Scripture:__
 > 1 Corinthians 10:23 (ESV): "‘All things are lawful,’ but not all things are helpful. ‘All things are lawful,’ but not all things build up."
 
 ☝ __First Principle:__
-> 
+> The use of tabacco is (arguably) not directly immoral, and so I am not really endorsing sin. While it may be unwise, unhealthy, and could be used sinfully, the use of the tabacco is not under my control, not should it necessarily be my concern.
 
 ## Option 2: _Express Moral Concerns_
 
@@ -30,8 +30,9 @@
 | Could potentially lead to more discussions about the subject, leading ultimately to Christ | Will likely make me a target for religious persecution, or at least ostracism |
 
 📜 __Script:__
-> ___Char1___ Text\
-> ___Char2___ Text\
+> ___Boss:___ I am putting your team on the tabacco data project. Get in touch with Rob, and sort out how you are going to split up the work.\
+> ___Me:___ Oh, is it possible I could be assigned somewhere else? I don't mean to be particular, but my religious beliefs are against the use of tabacco, so I can't support that project in a clear conscience.\
+> ___Boss:___ Ugh. There are some days when I hate the cultural emphasis on toleration and inclusivity of people's beliefs.
 
 ✝ __Scripture:__
 > 
@@ -48,8 +49,7 @@
 | Takes action without causing any issues at my work | Could be seen as hypocritical by people who see both types of my work |
 
 📜 __Script:__
-> ___Char1___ Text\
-> ___Char2___ Text\
+> ___Me:___ I am here today to spread awareness for the devastating detrements of a prolific substance in our world: tabacco. Although smoking tabacco is long-enforced habit (and let's face it: addiction) for many, it's health detrements are severe. It causes cancer, heart desease, lung damage, and psychological harms as well. In addition, the Bible says that we are not to be dominated by anything. Tabacco have dominated the lives of far too many people, and it is time to put a stop to it!\
 
 ✝ __Scripture:__
 > 
